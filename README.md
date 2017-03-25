@@ -7,6 +7,7 @@ Basic Gist:
 
 Bloomberg's Version: Bloomberg has friction for velocity, thereby determining terminal velocity.
 Potential Solution: One extra stage would have to be implemented to completely stop the ship when velocity is smaller than acceleration value before the "Stage 3" jump
+-in fact, this stage should be implemented to prevent strange initial velocity values
 
 Bugs:
   -ship does not calibrate correctly when initial velocity is set towards certain directions
