@@ -13,4 +13,4 @@ Bugs:
   -ship does not calibrate correctly when initial velocity is set towards certain directions
 
 Also uploaded:
-  -Our team's (Patrick Hum, Leo Liu, Anthony Western) code derived at the Hackathon
+  -Our team's (Patrick Hum, Leo Liu, Anthony Western) code made at the Hackathon
