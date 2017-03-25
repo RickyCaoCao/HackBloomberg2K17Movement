@@ -11,3 +11,6 @@ Potential Solution: One extra stage would have to be implemented to completely s
 
 Bugs:
   -ship does not calibrate correctly when initial velocity is set towards certain directions
+
+Also uploaded:
+  -Our team's (Patrick Hum, Leo Liu, Anthony Western) code derived at the Hackathon
